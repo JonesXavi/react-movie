@@ -12,7 +12,7 @@ To brush up React and get started with React 17. To create a public API based Ap
 
 ## Tried Something New ?
 
-<...>
+Tried [Styled Components](https://styled-components.com/) for css and used the Movie db public API.
 
 ## How to use the public API
 

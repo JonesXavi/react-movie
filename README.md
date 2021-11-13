@@ -1,4 +1,4 @@
-# REACT Series - RMDB (Like: IMDB) [DEMO](https://react-movie-jbx.netlify.app)
+# REACT Series - RMDB (Like: IMDB) [DEMO](https://jbx-react-movie.netlify.app/)
 
 
 ## What ?
